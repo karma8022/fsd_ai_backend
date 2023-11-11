@@ -1,0 +1,1117 @@
+good morning thank you for joining us
+today please welcome to the stage Sam
+[Music]
+Alman good morning Welcome to our first
+ever open AI Dev day we're thrilled that
+you're here and this energy is
+awesome and welcome to San Francisco
+San Francisco has been our home since
+day one the city is important to us and
+to the tech industry in general we're
+looking forward to continuing to grow
+here so we've got some great stuff to
+announce today but first I'd like to
+take a minute to talk about some of the
+stuff that we've done over the past year
+about a year ago November 30th we
+shipped chat GPT as a low-key research
+preview and that went pretty
+well in March we follow that up with the
+launch of GPT 4 still the most capable
+model out in the
+world and in the last few months we
+launched voice and vision capabilities
+so that chat GPT can now see hear and
+speak and more Rec there's a lot you
+don't have to clap each time and and
+more recently we launched Dolly 3 the
+world's most advanced image model you
+can use it of course inside of chat
+GPT for our Enterprise customers we
+launch chat GPT Enterprise which offers
+Enterprise grad security and privacy
+higher speed gp4 access longer context
+Windows a lot
+more today we've got about 2 million
+developers building on our API for a
+wide variety of use cases doing amazing
+stuff over 92% of Fortune 500 companies
+building on our
+products and we have about a 100 million
+weekly active users now on on chat
+gbt and what's incredible on that is we
+got there entirely through Word of Mouth
+people just find it useful and tell
+their friends open AI is the most
+advanced and the most widely used AI
+platform in the world
+now but numbers never tell the whole
+picture on something like this what's
+really important is how people use the
+products how people are using Ai and so
+I'd like to show you a quick
+video I actually wanted to write
+something to my dad in talo I want a
+non-romantic way to tell my parent that
+I love him and I also want to tell him
+that he can rely on me but in a way that
+still has the respect of like a childt
+parent relationship that you should have
+in topino culture and in tala Grandma
+when it's translated into tal I love you
+very deeply and I will be with you no
+matter where the path leads I see
+somebody posib like w sometime I'm not
+sure about some stuff and I feel like
+actually like hey this what I'm thinking
+about so it kind of give me that more
+confidence the first thing that just
+blew my mind was it levels with you like
+that's something that a lot of people
+struggle to do it opened my mind to just
+what every creative could do if they
+just had a person helping them out who
+lers so this is a to represent sickling
+hemoglobin and you built that with Chad
+GPT Chad G PT built it with me I started
+using it for daily activities like hey
+here's a picture of my fridge can you
+tell me what I'm missing cuz I'm going
+grocery shopping and I really need to do
+recipes that are following My Vegan Diet
+as soon as uh we got access to code
+interpreter I was like wow this thing is
+awesome they can build spreadsheets it
+could do anything I discovered catty
+about 3 months ago on my 100th birthday
+caddy is very friendly very patient very
+knowledgeable and very quick it's been a
+wonderful thing I'm a 4.0 student but I
+also have four children when I started
+using chat GPT I realized I could ask
+chat GPT that question and not only does
+it give me an answer but it gives me an
+explanation didn't need tutoring as much
+it gave me a life back it gave me time
+for my family and time for me I have
+chronic nerve pain uh on my whole left
+half of my body of nerve damage uh had
+like a spine a brain surgery and so I
+have like limited use of my left hand
+now you can just have like the
+integration of voice input and then the
+newest one where you can have the back
+and forth dialogue that's just like
+maximum best interface for me it's
+[Music]
+[Applause]
+here so we we love hearing the stories
+of of how people are using the
+technology it's really why we do all of
+this okay so now on to the new stuff and
+we have got a
+lot first we're going to talk about a
+bunch of improvements we've made and
+then we'll talk about where we're headed
+next over the last year we spent a lot
+of time talking to developers around the
+world we've heard a lot of your feedback
+it's really informed what we have to
+show you
+today today we are launching a new
+model gp4
+[Applause]
+turbo gp4 Turbo will address many of the
+things that you all have asked for so
+let's go through what's new we've got
+six major things to talk about for this
+part number one context length a lot of
+people have tasks that require a much
+longer context length gp4 supported up
+to 8K and in some cases up to 32k
+context length but we know that isn't
+enough for many of you and what you want
+to do gp4 turbo supports up to 128,000
+tokens of
+context that's 300 pages of a standard
+book 16 times longer than our 8K context
+and in addition to longer context length
+you'll notice that the model is much
+more accurate over a long
+context number two
+more
+control we've heard loud and clear that
+developers need more control over the
+model's responses and outputs so we've
+addressed that in a number of
+ways we have a new feature called Json
+mode which ensures that the model will
+respond with valid Json this has been a
+huge developer request it'll make
+calling apis much
+easier the model is also much better at
+function calling you can now call many
+functions at once and it'll do better at
+following instruction instructions in
+general we're also introducing a new
+feature called reproducible outputs you
+can pass a seed parameter and it'll make
+the model return consistent outputs this
+of course gives you a higher degree of
+control over Model Behavior this rolls
+out in beta
+today and in the coming weeks we'll roll
+out a feature to let you view log probs
+in the
+API all right number three Better World
+Knowledge you want these models to be
+able to access better knowledge about
+the world so do
+we so we're launching retrieval in the
+platform you can bring Knowledge from
+outside documents or databases into
+whatever you're
+building we're also updating the
+knowledge cut off we are just as annoyed
+as all of you probably more that gbd
+for's knowledge about the world ended in
+2021 we will try to never let it get
+that out of date again gp4 turbo has
+knowledge about the world up to April of
+2023 and we will continue to improve
+that over
+time number four new
+modalities surprising no one Dolly 3 gp4
+Turbo with vision and the new text to
+speech model are all going into the API
+today we have a handful of customers
+that have just started using Dolly 3 to
+program programmatically generate images
+and Designs today K is launching a
+campaign that lets his customers
+generate devali cards using dolly3 and
+of course our safety systems help
+developers protect their applications
+against misuse those tools are available
+in the
+API gp4 turbo can now accept images as
+inputs via the API can generate captions
+classifications and Analysis for example
+B my eyes uses this technology to help
+people who are blind or have low vision
+with their daily tasks like identifying
+products in front of
+them and with our new text of speech
+model you'll be able to generate
+incredibly naturally natural sounding
+audio from text in the API with six
+preset voices to choose from I'll play
+an
+example did you know that Alexander
+Graham Bell the eminent inventor was
+enchanted by the world of sounds his
+ingenious mind led to the creation of
+the graphophone which etched sounds onto
+wax making voices whisper Through Time
+this is much more natural than anything
+else we've heard out there voice can
+make apps more natural to interact with
+and more accessible it also unlocks a
+lot of use cases like language learning
+and voice
+assistance speaking of new
+modalities we're also releasing the next
+version of our open-source speech
+recognition model whisper V3 today and
+it'll be coming soon to the API it
+features improved performance across
+many languages and we think you're
+really going to like
+it okay number number five
+customization fine-tuning has been
+working really well for GPT 3.5 since we
+launched it a few months ago starting
+today we're going to expand that to the
+16k version of the model also starting
+today we're inviting active fine-tuning
+users to apply for the gp4 fine-tuning
+experimental Access program the
+fine-tuning API is great for adapting
+our models to achieve better performance
+in a wide variety of applications with a
+relatively small amount of data
+but you may want a model to learn a
+completely new knowledge domain or to
+use a lot of proprietary data so today
+we're launching a new program called
+custom
+models with custom models our
+researchers will work closely with a
+company to help them make a great custom
+model especially for them and their use
+case using our tools this includes
+modifying every step of the model
+training process doing additional domain
+specific pre-training a custom RL
+post-training process for a specific
+domain and whatever else we won't be
+able to do this with many companies to
+start it'll take a lot of work and in
+the interest of expectations at least
+initially it won't be cheap but if
+you're excited to push things as far as
+they can currently go please get in
+touch with us and we think we can do
+something pretty
+great okay and then number six higher
+rate limits we're doubling the tokens
+per minute for all of our established
+gp4 customers so that it's easier to do
+more and you'll be able to request
+changes to further rate limits and
+quotas directly in your API account
+settings in addition to these rate
+limits it's important to do everything
+we can do to make it you successful
+building on our
+platform so we're introducing copyright
+Shield copyright Shield means that we
+will step in and defend our customers
+and pay the costs incurred if you face
+legal claims around copyright
+infringement and this applies both to
+chat GPT Enterprise and the
+API and let me be clear this this is a
+good time to remind people we do not
+train on data from the API or chat gbt
+Enterprise
+ever all
+right there's actually one more
+developer request that's been even
+bigger than all of these uh and so I'd
+like to talk about that
+now and that's
+pricing gp4 turbo is the industry
+leading model it delivers a lot of
+improvements that we just covered and
+it's a smarter model than
+gp4 we've heard from developers that
+there are a lot of things that they want
+to build but gp4 just cost too much
+they've told us that if we could
+decrease the cost by 20 25% that would
+be great a huge leap
+forward I'm super excited to announce
+that we worked really hard on this and
+gp4 turbo a better model is considerably
+cheaper than
+gp4 by a factor of 3x for prompt tokens
+and 2x for completion tokens starting
+today so the new pricing is 1 cent per
+th000 prompt tokens and 3 cents per
+thousand completion tokens for most
+customers that will lead to a blended
+rate more than 2.75 times cheaper to use
+for gp4 Turbo than gp4 we worked super
+hard to make this happen we hope you're
+excited about as we
+are so we decided to prioritize price
+first because we had to choose one or
+the other but we're going to work on
+speed next we know that speed is
+important too soon you will notice gp4
+turbo becoming a lot
+faster we're also decreasing the cost of
+GPT 3.5 turbo
+16k also input tokens are 3x less and
+output tokens are 2x less which means
+the GPT
+3.56k is now cheaper than the previous
+GPT 3.5 4K
+model running a fine tuned GPT 3.5 turbo
+16k version is also cheaper than the old
+fine-tuned 4K
+version okay so we just covered a lot
+about the model itself we hope that
+these changes address your feedback
+we're really excited to bring all of
+these improvements to everybody
+now in all of this we're lucky to have a
+partner who is instrumental in making
+happen so I'd like to bring out a
+special guest Saia Nadella the CEO of
+[Applause]
+[Music]
+Microsoft welcome good to see you thank
+you so much thank you SAA thanks so much
+for coming here it's fantastic to be
+here and uh Sam congrats I mean I'm
+really looking forward to tobo and
+everything else that you have coming
+it's been just fantastic partnering with
+you guys um two questions won't take too
+much of your time how are how is
+Microsoft thinking about the partnership
+sh currently look
+first we love you
+guys now look it's it's it's been
+fantastic for us in fact I remember the
+first time I think you reached out and
+said hey do you have some Azure credits
+we've come a long way from there uh
+thank you for those that was great you
+you guys have built something magical I
+mean quite frankly there are two things
+uh for us when it comes to the
+partnership the first is these workloads
+and even when I was listening backstage
+to how you're describing what's coming
+even it's just so different and new I've
+been in this infrastructure business for
+you know three decades no one has ever
+seen infrastructure like yeah and and
+the workload and the pattern of the
+workload these you know these training
+jobs are so synchronous and so large and
+so data parallel um and so the first
+thing that we have been doing is
+building in partnership with you the
+system all the way from thinking from
+power to the DC to the rack to the
+accelerators to the network uh and just
+you know really the the shape of of
+azure is drastically changed uh and is
+changing rapidly in support of these
+models that you're building and so our
+job number one is to build the best
+systems so that you can build the best
+models and then make that all available
+to developers and so the other thing is
+we ourselves are a developers so we're
+building products in fact my own
+conviction of this entire generation of
+foundation models completely changed the
+first time I saw you know get up
+co-pilot on uh GPT um and so we want to
+build our co-pilot GitHub co-pilot all
+as developers uh on top of open Ai apis
+and so we are very very committed to
+that and what does that mean to
+developers you know look I I always
+think of Microsoft as a platform company
+a developer company and a partner
+company and so we want to make you know
+for example we want to make GitHub
+available GitHub co-pilot available as
+the Enterprise Edition available to all
+the attendees here so that they can try
+it out that's awesome yeah we're very
+excited about
+that
+and you can count on us to build the
+best infrastructure in Azure with your
+API support uh and bring it to all of
+you and then even things like the Azure
+Marketplace so for developers who are
+building products out here to get to the
+market uh rapidly so that's sort of
+really our intent here great and how do
+you think about the future future of the
+partnership or future of AI or whatever
+yeah
+there anything you want that's a uh you
+know like there are couple of things for
+that I think are going to be very very
+key for us right one is I just described
+how the systems that are needed as you
+aggressively push forward on your road
+map um requires us to be on the top of
+our game and we intend fully to commit
+ourselves deeply to making sure you all
+as Builders of these Foundation models
+have not only the best systems uh for
+training and inference but the most
+compute so that you can keep pushing we
+appreciate that forward uh on the
+Frontiers because I think that that's
+the way we're going to make progress the
+second thing I think both of us care
+about in fact quite frankly the thing
+that excited both sides to come together
+is your mission and our mission our
+mission is to empower every person and
+every organization on the planet to
+achieve more and to me ultimately AI is
+only going to be useful if it truly does
+empower right I mean I saw the video you
+played early I mean that was fantastic
+to see those hear those voices describe
+what AI meant for them and what they
+were able to achieve so ultimately it's
+about being able to get the benefits of
+AI broadly decimated to everyone I think
+is going to be the goal for us and then
+the last thing is of course we're very
+grounded in the fact that safety matters
+and safety is not something that you'd
+care about later but it's something we
+do shift left on and we are very very
+focused on that with you all great well
+I think we have the best partnership in
+Tech I'm excited for us to build AGI
+together no I'm really excited have a
+fantastic thank you very much thank you
+so much see
+[Applause]
+you
+okay so we have shared a lot of great
+updates for developers already and we
+got a lot more to come but even though
+this is a developer conference we can't
+resist making some improvements to chat
+GPT so a small one chat GPT now uses gp4
+Turbo with all the latest improvements
+including the latest knowledge cut off
+which will continue update that's all
+live today it can now browse the web
+when it needs to write and run code
+analyze data take and generate images
+and much more and we heard your feedback
+that model picker extremely annoying
+that is gone starting today you will not
+have to click around the drop down menu
+all of this will just work together chat
+GPT
+yeah chat GPT will just know what to use
+and when you need
+it but that's not the main
+thing uh and neither was price actually
+the main developer request that there
+was one that was even bigger than that
+and I want to talk about where we're
+headed and the main thing we're here to
+talk about today so we believe that if
+you give people better tools they will
+do amazing things we know that people
+want AI that is smarter more personal
+more customizable can do more on your
+behalf eventually you'll just ask a
+computer for what you need and it'll do
+all of these tasks for you these
+capabilities are often talked in the AI
+field about as agents
+the upsides of this are going to be
+tremendous at open AI we really believe
+that gradual iterative deployment is the
+best way to address the safety issues
+the safety challenges with AI we think
+it's especially important to move
+carefully towards this future of Agents
+it's going to require a lot of technical
+work and a lot of thoughtful
+consideration by
+Society So today we're taking our first
+small step that moves us towards this
+future we're thrilled to uh we're
+thrilled to
+introduce
+gpts gpts are tailored versions of chat
+GPT for a specific purpose you can build
+a GPT a customized version of chat GPT
+for almost anything with instructions
+expanded knowledge and actions and then
+you can publish it for others to
+use and because they combine
+instructions expanded knowledge and
+actions they can be more helpful to you
+they can work better in many contexts
+and they can give you better
+control they'll make it easier for you
+to accomplish all sorts of tasks or just
+have more fun and you'll be able to use
+them right within chat
+GPT you can in effect program a GPT with
+language just by talking to it it's easy
+to customize the behavior so that it
+fits what you want this makes building
+them very accessible and it gives agency
+to
+everyone so we're going to show you what
+gpts are how to use them how to build
+them and then we're going to talk about
+how they'll be distributed and
+discovered and then after that for
+developers we're going to show you how
+to build these agent like experiences
+into your own apps so first let's look
+at a few
+examples our partners at code.org are
+working hard to expand computer science
+in in schools they've got a curriculum
+that is used by tens of millions of
+students worldwide code.org crafted
+lesson planner GPT to help teachers
+provide a more engaging experience for
+middle
+schoolers if a teacher asks it to
+explain for Loops in a creative way it
+does just that in this case it'll do it
+in terms of a video game character
+repeatedly picking up coins super easy
+to understand for an eighth
+grader as you can see this GPT brings
+together code.org extensive curriculum
+and expertise and lets teachers adapt it
+to their needs quickly and
+easily next canva has built a GPT that
+lets you start designing by describing
+what you want in natural language if you
+say make a poster for Dev a Dev day
+reception this afternoon this evening
+and you give it some
+details it'll generate a few options to
+start with by hitting canvas apis now
+this concept may be familiar to some of
+you we've evolved our plugins to be
+custom actions for
+gpts you can keep chatting with this to
+see different iterations and when you
+see one you like you can click through
+to canva for the full design
+experience so now we'd like to show you
+a GPT
+live capier has built a GPT that that
+lets you perform actions across 6,000
+applications to unlock all kinds of
+integration possibilities I'd like to
+introduce Jessica one of our Solutions
+architects who is going to drive this
+demo welcome
+Jessica thank you s h
+everyone thank you
+all thank you all for being here my name
+is Jessica I work with partners and
+customers to bring their product alive
+and today I I can't wait to show you you
+how hard we've been working on this so
+let's get started so to start where your
+gbt will live is on this upper left
+corner I'm going to start with clicking
+on the zapier AI actions and on the
+right hand side you can see that's my
+calendar for today so it's quite a day
+I've already used this before so it's
+actually already connected to my
+calendar to start I can ask what's on my
+schedule for today we build gpts with
+security in mind so before a forms any
+action or share data it will ask for
+your permission so right here I'm going
+to say allowed so gbt is designed to
+take in your instructions make the
+decision on which capability to call to
+perform that action and then execute
+that for you so you can see right here
+it's already connected to my calendar it
+pulls into my my information and then
+I've also prompted it to identify
+conflicts on my calendar so you can see
+right here it actually was able to
+identify that so it looks like I have
+something coming up so what if I want to
+let Sam know that I have to leave early
+so right here I say Let Sam no I got to
+go um chasing
+gpus so with that I'm GNA swap to my
+conversation with Sam and then I'm going
+to say yes please run
+that Sam did you get that I
+did
+awesome
+so this is only a glimpse of what is
+possible and I cannot wait to see what
+you all will build thank you and back to
+you
+Sam thank thank you Jessica so those are
+three great examples in addition to
+these there are many more kinds of gpts
+that people are creating and many many
+more that will be created
+soon we know that many people who want
+to build the GPT don't know how to
+code we've made it so that you can
+program the GPT just by having a
+conversation we believe that natural
+language is going to be a big part of
+how people use computers in the future
+and we think this is an interesting
+early example so I'd like to show you
+how to build
+one all right so I want to create a GPT
+uh that helps give Founders and
+developers advice when starting new
+projects
+um I'm going to go to create a GPT here
+and this drops me into the GPT Builder
+uh I worked with Founders for years at
+YC and still whenever I meet developers
+the questions I get are always about how
+do I you know think about a business
+idea can you give me some advice uh I'm
+going to see if I can build a GPT to
+help with that so to start GPT Builder
+asks me what I want to make and I'm
+going to say I want to help help startup
+Founders think through their business
+ideas and get advice after the founder
+has gotten some
+advice uh Grill
+them on why they are not growing
+faster all right so to start off I just
+tell the GPT a little bit about about
+what I want here and it's going to go
+off and start thinking about that
+and it's going to write some detailed
+instructions for the GPT um it's also
+going to let's see ask me about a name
+how do I feel about startup Mentor
+that's fine uh that's good so if I
+didn't like the name of course I could
+call it something else but it's you know
+going to try to have this conversation
+with me and start there and you can see
+here on uh on on the right in the
+preview mode that it's already starting
+to fill out the GPT um where it says
+what it does it has some like ideas of
+additional questions that I could ask um
+and you know what I actually so it just
+generated a candidate of course I could
+regenerate that or change it but I sort
+of like that so I will say that's
+great and you see now that the GPT is
+being built out a little bit more as we
+go now what I want this to do um how it
+can interact with users I could talk
+about style here but what I'm going to
+say uh is I am going to upload
+transcripts of some lectures about
+startups I have given please give advice
+based off of
+those all right so now uh it's going to
+go figure out how to do that and I would
+like to show you the configure tab so
+you can see some of the things that were
+built out here as we were going um by by
+the Builder itself and you can see that
+there's capabilities here that I can
+enable um I could add custom actions
+these are all fine to leave um I'm going
+to upload a file uh so here is a lecture
+that I picked that I used to that I gave
+with some startup advice um and I'm
+going to add that here in terms of these
+questions uh this is a dumb
+one the rest of those are reasonable uh
+and like very much things Founders often
+ask um I'm going to add one more thing
+to the instructions here which is be
+concise and constructive with
+feedback all right so if we had more
+time I'd show you a bunch of other
+things but this is uh this is like a
+decent start and now uh we can try it
+out over on this preview tab so I will
+say um what's a common question what are
+three things to look oops what are three
+things to look for when hiring employees
+at an early stage
+startup now it's going to look at that
+document I uploaded um it'll also have
+of course all of the background
+knowledge of
+gp4 that's pretty good those are three
+things that I definitely have said many
+times um now we could go on and it would
+start following the other instructions
+and you know Grill me on why I'm not
+growing faster but in the interest of
+time I'm going to skip that uh I'm going
+to publish this only to me for now uh I
+can work on it later I can add more
+content I can add a few actions that I
+think would be useful um and then I can
+share it publicly so that's what it
+looks like to create a g
+PT with thank
+you by the way I always I always wanted
+to do that after like all of the YC
+office hours I always thought man
+someday I will be able to make a bot
+that will do this and that'll be
+awesome so with gpts we're letting
+people easily share and discover all the
+fun ways that they use chat GPT with the
+world you can make private gpts like I
+just did
+or you can share your Creations publicly
+with a link for anyone to
+use or if you're on chat GPT Enterprise
+you can make gpts just for your
+company and later this month we're going
+to launch the GPT
+store you can list a GP thank you I
+appreciate
+that you can list a GPT there and be
+able to feature the best and the most
+popular gpts of course we'll make sure
+that gpts in the store follow our
+policies before they're
+accessible Revenue sharing is important
+to us we're going to pay people who
+build the most useful and the most use
+gpts a portion of our Revenue we're
+excited to foster a vibrant ecosystem
+with the GPT store just from what we've
+been building ourselves over the weekend
+we're confident there's going to be a
+lot of great stuff we're excited to
+share more information soon
+so those are gpts and we can't wait to
+see what you'll
+build but this is a developer conference
+and the coolest thing about this is that
+we're bringing the same concept to the
+API many of you have already been
+building agent-like experiences on the
+API for example Shopify sidekick which
+lets you take actions on the platform
+discords Clyde lets Discord moderators
+create custom custom personalities for
+and snaps my AI a customized chatbot
+that can be added to group chats and
+make
+recommendations these experiences are
+great but they have been hard to build
+sometimes taking months teams of dozens
+of Engineers there's a lot to handle to
+make this custom assistant
+experience So today we're making that a
+lot easier with our new assistance
+API
+the assistance API includes persistent
+threads so they don't have to figure out
+how to deal with long conversation
+history built-in
+retrieval code interpreter a working
+python interpreter in a sandbox
+environment and of course the improved
+function calling that we talked about
+earlier so we'd like to show you a demo
+of how this works and here is Raman our
+head of developer experience
+welcome thank you sir
+good
+morning wow it's fantastic to see you
+all
+here it's been so inspiring to see so
+many of you infusing AI into your apps
+today we're launching new modalities in
+the API but we also very excited to
+improve the developer experience for you
+all to build assistive agents so let's
+Dive Right
+In imagine I'm building wust a travel
+app for Global explorers and this is the
+landing page I've actually used GPT for
+to come up with these destination ideas
+and for those of you with the Keen ey
+these illustrations are generated
+programmatically using the new dly 3 API
+available to all of you today so it's
+pretty
+remarkable but let's enhance this app by
+adding a very simple assistant to it
+this is the screen we're going to come
+back to it in a second first I'm going
+to switch over to the new assistant
+playground creating an assistant is easy
+you just give it a name some initial
+instructions a model in this case I'll
+pick gp4 turbo and here I'll also go
+ahead and select some tools I'll turn on
+code interpreter and retrieval and save
+and that's it our assistant is ready to
+go next I can integrate with two New
+Primitives of this assistant CPI threads
+and messages let's take a quick look at
+the
+code the process here is very simple for
+each new user I will create a new thread
+and as these users engage with their
+assistant I will add their messages to
+the threads very simple and then I can
+simply run the assistant at any time to
+stream the responses back to the app so
+we can return to the app and try that in
+action if I say hey let's go to
+Paris all right that's it with just a
+few lines of code users can now have a
+very specialized assistant right inside
+the
+app and I'd like to highlight one of my
+favorite features here function calling
+if you have not used it yet function
+calling is really powerful and as Sam
+mentioned we're taking it a step further
+today it now guarantees the Json output
+with no added latency and you can invoke
+multiple functions at once for the first
+time so here if I carry on and say hey
+what are the top 10 things to
+do when I have the assistant respond to
+that
+again and here what's interesting is
+that the assistant knows about functions
+including those to annotate the map that
+you see on the right and so now all of
+these pins are dropping in real time
+here yeah it's pretty
+cool and that integration allows our
+natural language interface to interact
+fluidly with components and features of
+our app and it truly showcases now the
+harmony you can build between Ai and UI
+where the assistant is actually taking
+action but next next let's talk
+retrieval and retrieval is about giving
+our assistant more knowledge Beyond
+these immediate user messages in fact I
+got inspired and I already booked my
+tickets to uh to Paris so I'm just going
+to drag and drop here this PDF while
+it's uploading I can just sneak peek uh
+at it very typical United flight ticket
+and behind the scene here what's
+happening is that retrieval is reading
+these files and boom the information
+about this PDF appeared on the
+screen
+and this is of course a very tiny PDF
+but assistants can pass long form
+documents from extensive text to
+intricate product specs depending on
+what you're building in fact I also
+booked an Airbnb so I'm just going to
+drag that over to the conversation as
+well and by the way we've heard from so
+many of you developers how hard that is
+to build yourself you typically need to
+compute your un biddings you need to set
+up chunking algorithm now all of that is
+taken care
+of and there's more than retrieval with
+every API call you usually need to
+resend the entire conversation history
+which means you know setting up a key
+value store that means like handling the
+context window serializing messages and
+so forth that complexity now completely
+goes away with this new stateful
+API but just because AI is managing this
+API does not mean it's a blackbox in
+fact you can see the steps that the
+tools are taking right inside your
+developer dashboard so here if I go
+ahead and click on
+threads this is the thread thread I
+believe we're currently working on and
+see like these are all the steps
+including the functions being called
+with the right parameters and the the
+PDFs I've just
+uploaded but let's move on to a new
+capability that many of you have been
+requesting for a while code interpreter
+is now available today in the API as
+well that gives the AI the ability to
+write and execute code on the fly but
+even generate files so let's see that in
+action if I say here hey will be
+four friends staying at DC
+rbnb what's my
+share of it plus my
+flights all
+right now here what's happening is that
+code interpreter noticed that it should
+write some code to answer this query so
+now it's Computing you know the number
+of days in Paris number of friends it's
+also doing some exchange rate
+calculation behind the scene to get get
+this answer for us not the most complex
+math but you get the picture imagine
+you're building a very complex like
+finance app that's crunching countless
+numbers plotting charts so really any
+task that you'd normally tackle with
+code then code interpreter will work
+great for
+you all right I think my trip to Paris
+is soled so to recap here we've just
+seen how you can quickly create an
+assistant that manages state for your
+user conversations leverages external
+tools like know leg and retrieval and
+code interpreter and finally invokes
+your own functions to make things
+happen but there's one more thing I
+wanted to show you to kind of really
+open up the possibilities using function
+calling combined with our new modalities
+that we're launching today while working
+on dev day I built a small custom
+assistant that knows everything about
+this event but instead of having a chat
+interface while running around all day
+today I thought why not use voice
+instead so let's bring my phone up on
+screen screen here so you can see it on
+the right awesome so on the right you
+can see a very simple Swift app that
+takes microphone input and on the left
+I'm actually going to bring up my
+terminal log so you can see what's
+happening behind the scenes so let's
+give it a
+shot hey there I'm on the keynote stage
+right now can you greet our attendees
+here at Dev
+day hey everyone welcome to devday it's
+awesome to have you all here let's make
+it an incredible
+day isn't that impressive you have six
+unique and Rich voices to choose from in
+the API each speaking multiple languages
+so you can really find the perfect fit
+for your app and on my laptop here on
+the left you can see the logs of what's
+Happening behind the scenes too so I'm
+using whisper to convert The Voice
+inputs into text and assistant with gp4
+turbo and finally the new TTS API to
+make it
+speak but thanks to function calling
+things get even more interesting when
+the assistant can connect to the
+internet and take real actions for users
+so let's do something even more exciting
+here uh together how about
+this hey assistant can you randomly
+select five de day attendees here and
+give them $500 in open eye
+credits yes checking the list of
+attendees
+done I picked five devday attendees and
+added $500 of API credits to their
+account congrats to Christine M Jonathan
+C Steven G Lis K and surj S all right if
+you recognize yourself awesome congrats
+um and that's it a quick overview today
+of the new assistant CPI combined with
+some of the new tools and modalities
+that we launched all starting with the
+Simplicity of a rich text or voice
+conversation for your and users we we
+really can't wait to see what you build
+and congrats to our lucky winners
+actually you know what you're all part
+of this amazing oppon Community here so
+I'm just gonna talk to my assistant one
+last time before I step off the
+stage hey assistant can you actually
+give everyone here uh in the audience
+$500 in open
+credits sounds great let me go through
+everyone
+all
+right that that function will keep
+running but I've run out of time so
+thank you so much everyone have a great
+day back to you
+[Applause]
+Sam pretty cool
+[Applause]
+huh all right so that assistance API
+goes into beta today and we are super
+excited to see what you all do with it
+anybody can enable it
+over time gpts and assistance are
+precursors to agents are going to be
+able to do much much more they'll
+gradually be able to plan and to perform
+more complex actions on your behalf as I
+mentioned before we really believe in
+the importance of gradual iterative
+deployment we believe it's important for
+people to start building with and using
+these agents now to get a feel for what
+the world is going to be like as they
+become more capable and as we've always
+always done will continue to update our
+systems based off of your
+feedback so we're super excited that we
+got to share all of this with you
+today we introduced
+gpts custom versions of chat GPT that
+combine instructions extended knowledge
+and actions we launched the assistance
+API to make it easier to build assisted
+experiences with your own apps these are
+our first steps towards AI agents and
+we'll be increasing their capabilities
+over time we introduced a new gp4 turbo
+model that delivers improved function
+calling knowledge lowered pricing new
+modalities and more and we're deepening
+our partnership with
+Microsoft in closing I wanted to take a
+minute to thank the team that creates
+all of this openai has got remarkable
+Talent density but still it takes a huge
+amount of hard work and coordination to
+make all of this happen I truly believe
+that I've got the best colleagues in the
+world I feel incredibly grateful to get
+to work with them
+we do all of this because we believe
+that AI is going to be a technological
+and societal Revolution it will change
+the world in many ways and we're happy
+to get to work on something that will
+Empower all of you to build so much for
+all of
+us we talked about earlier how if you
+give people better tools they can change
+the world we believe that AI will be
+about individual empowerment and agency
+at a scale that we've never seen before
+and that will Elevate Humanity to a
+scale that we've never seen before
+either we'll be able to do more to
+create more and to have more as
+intelligence gets integrated everywhere
+we will all have superpowers on
+demand we're excited to see what you all
+will do with this technology and to
+discover the new future that we're all
+going to architect
+together we hope that you'll come back
+next year what we launch today is going
+to look very quaint relative to what
+we're busy creating for you now thank
+you for all that you do thank you for
+coming here
+today
+[Music]
+ah
