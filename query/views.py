@@ -67,7 +67,7 @@ def llm_answering(request):
     embedding2 = GooglePalmEmbeddings(google_api_key="AIzaSyBysL_SjXQkJ8lI1WPTz4VwyH6fxHijGUE")
     # Adjust the path to your FAISS index directory
     db = FAISS.load_local("./query/vdb_chunks_HF/", embedding2, index_name=f"index{video_id}")
-    llm = HuggingFaceHub(repo_id="google/flan-t5-xxl", model_kwargs={"temperature": 0.1, "max_length": 1024, "min_length": 512}, huggingfacehub_api_token="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")
+    llm = HuggingFaceHub(repo_id="google/flan-t5-xxl", model_kwargs={"temperature": 0.1, "max_length": 65536, "min_length": 32768}, huggingfacehub_api_token="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")
     chain = load_qa_chain(llm, chain_type="stuff")
     print(f"Query: {query}")
     docs = db.similarity_search(query)
@@ -116,5 +116,6 @@ def process_youtube_video(request):
     return JsonResponse({'status': 'success'})
 
 # http://127.0.0.1:8000/query/yt/?query=omega&url=https://www.youtube.com/watch?v=7kcWV6zlcRU&list=PLUl4u3cNGP62esZEwffjMAsEMW_YArxYC&index=5&ab_channel=MITOpenCourseWare
-# http://127.0.0.1:8000/query/ytvid/?url=https://www.youtube.com/watch?v=U9mJuUkhUzk
+# http://127.0.0.1:8000/query/ytvid/?url=https://www.youtube.com/watch?v=IcmzF1GT1Qw
 # http://127.0.0.1:8000/query/llm/?query=what+is+omega&url=https://www.youtube.com/watch?v=7kcWV6zlcRU&list=PLUl4u3cNGP62esZEwffjMAsEMW_YArxYC&index=5&ab_channel=MITOpenCourseWare
+# http://127.0.0.1:8000/query/llm/?query=what+does+he+say+about+beethoven+?&url=https://www.youtube.com/watch?v=IcmzF1GT1Qw&ab_channel=Vienna
