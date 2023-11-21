@@ -1,0 +1,231 @@
+2 1 on November 18 2023 Starship took
+one step closer to
+Mars one day Elon Musk expects the most
+powerful rocket ever to carry a 100
+people to the red planet unlike the
+first test flight in April this flight
+achieved a milestone Starship fired its
+engines before detaching from the super
+heavy booster stage separation start
+this complicated maneuver didn't happen
+previously as a fuel leak led to a fire
+in the booster damaging most of its 33
+engines Starship veered off course and
+the team had to destroy it over water
+for safety reasons can remember the
+damage to the Launchpad last time this
+time SpaceX reinforced the Launchpad
+with a steel plate cooled by 260,000
+gallons of
+water the plan was to lift off from
+Starbase in Bach chica Texas with a
+booster splashing down close to shore
+while Starship soared before landing in
+the Pacific Ocean near Hawaii however at
+as Elon is aware not everything goes
+according to plans as you can see the
+super heavy booster has just experienced
+a rapid unscheduled disassembly the
+booster exploded in spectacular Fashion
+After separating from Starship which is
+believed to have self-destructed after
+the team lost contact with it 10 minutes
+in SpaceX says the lessons learned from
+this flight will help improve starship's
+reliability after all it took the Falcon
+1 four tries before reached orbit and
+saved the company from impending death
+SpaceX even compiled a video showing all
+of its failed attempts to land its
+orbital boosters if Mars were not the
+eventual Target Elon would not need such
+a large rocket that Towers over the SLS
+and the Saturn 5 that took us to the
+moon it's more than twice the thrust of
+a Saturn 5 that's the largest rocket
+ever to get to orbit he had already
+achieved remarkable success with the
+Falcon 9 which has become the world's
+most reliable rocket regularly
+transporting crew and cargo to the ISS a
+lucrative business but wealth was is
+never the endgame as elen expressed in
+his biography written by Walter Isaacson
+I could have made a lot of money but I
+could not have made life
+multiplanetary the Falcon 9 is not big
+enough or powerful enough to go all the
+way to Mars not even its larger sibling
+the Falcon heavy can do that the Falcons
+are also not fully reusable while the
+first stage returns to earth and the
+payload fairings are fished out of the
+sea the second stage is not recovered
+Starship is designed as a fully reusable
+rocket essential for long duration
+missions a capability enhanced by
+stainless steel construction like the
+con used on the Cyber truck Elon fell in
+love with stainless steel a few years
+back joking to his team stainless steel
+and I should go get a room somewhere
+Starship was originally supposed to be
+made out of carbon fiber however the
+carbon fiber sheets were expensive and
+not up to the job even the specialized
+expertise that went into them could not
+prevent issues like developing wrinkles
+Elon knew that if they went the carbon
+fiber route this extrapolates to death
+I'll never be able to get to Mars he
+told Isaac Sin so inspired by the
+earliest Atlas rockets that took the
+first Americans to orbit he opted for
+stainless steel it was an odd move
+according to his executive team because
+stainless steel is heavier than carbon
+fiber but Elon looked at the situation
+differently the high melting point of
+stainless steel eliminated the need for
+as many heat shields to protect Starship
+as it re-enters the atmosphere where
+temperatures can soar as high as500 100°
+C or 2700 de F fewer heat shields mean
+the overall weight is reduced and
+stainless steel maintains its strength
+even when holding super cooled liquid
+oxygen and methane which is used to fuel
+Starship the first prototype of Starship
+was the starhopper which had retractable
+legs to test how it could land when it
+returns to earth however Elon has since
+decided to try to catch Starship both
+the ship and the booster with a tower
+that holds the rocket on the LaunchPad
+the SpaceX team was once again nervous
+at such a bold proposal what happens if
+the catch fails and destroys the launch
+Tower and the next flight is delayed
+when someone on X asked why not just use
+the landing legs for the booster Elon
+replied legs would certainly work but
+best part is no part best step is no
+step highlighting his preference for
+reducing complexity to bring down costs
+and make space travel more affordable
+he's applied the same principle to the
+design of the r engines that power
+Starship he wanted to lower the cost of
+a single engine prototype from 2 million
+to 200,000 this strategy worked for him
+in the past when he wanted to buy
+refurbished icbms from Russia but found
+the cost of $8 million for one too high
+and decided to create his own company to
+build more affordable Rockets he since
+coined the term idiot index a metric
+comparing the cost of a component to the
+cost of its raw materials let's say the
+nozzle for the engine hypothetic Ally
+costs $20,000 but the raw material cost
+is $2,000 so the ratio on elon's idiot
+index would be 10 to one a high ratio
+suggests the production process for this
+component is more expensive than it
+really needs to be when Elon asked
+financial analyst Lucas Hughes what are
+the best parts in Raptor as judged by
+the idiot index and Hughes responded I'm
+not sure Elon reamed him out as reported
+in isakson's book he said you better be
+effing sure in the future you know these
+things off the top of your head if you
+ever come into a meeting and do not know
+what are the idiot parts then your
+resignation will be accepted immediately
+unbeknownst to Elon the analyst had
+other things on his mind he had just
+lost a newborn daughter a few weeks
+before Elon had suffered a similar loss
+when his firstborn Nevada Alexander died
+of sudden infant death syndrome when
+isacon later asked Elon if he felt he
+was being too harsh Elon said I try to
+criticize the action not the person we
+all know make mistakes what matters is
+whether a person has a good feedback
+loop can seek criticism from others and
+can improve physics does not care about
+hurt feelings it cares about whether you
+got the rocket right the analyst was
+much more prepared the next day he
+discovered that Parts with the highest
+cost compared to raw material required a
+lot of high Precision Machining Elon
+decided that the person in charge of
+each component should try to get their
+costs down by 80% and if they couldn't
+they should step aside if someone else
+might be able to do so Elon has always
+operated with an extreme sense of
+urgency as if every second counts
+declaring we need to get to Mars before
+I die he assigned the responsibility for
+revamping Raptor to a young engineer
+named Jacob McKenzie the directive in
+musk's words was to delete any part that
+is even potentially unnecessary McKenzie
+consulted a Tesla executive to help
+streamline spacex's manufacturing
+similar to how Tesla continues to
+streamline its process of mass producing
+electric vehicles the result is that
+version two of the Raptor engine removed
+many of the intricate Plumbing
+components and looked much simpler you
+know V1 looks like kind of like a
+Christmas tree spaghetti pile a lot of
+fiddly bits um Raptor 2 costs about half
+as much as Raptor one despite having
+much more thrust it's only going to get
+better from here elon's Hands-On
+approach is embodied by his choice to
+live just a mile away from Star base
+despite being the richest person in the
+world he resolved Ides in a two-bedroom
+house where caffeine-free Diet Cokes are
+common as our midnight meetings with a
+Starship team living and breathing the
+mission to make life
+multiplanetary building the most
+advanced rockets in the world would not
+be possible without the hard work of
+brilliant Engineers if you've been
+inspired by Elon and the team at SpaceX
+and want to brush up on your skills in
+math computer science and data science I
+highly recommend brilliant a website and
+app where you can learn interactively
+whether you're aspiring to be part of
+the next generation of Space Explorers
+or you're simply looking to enhance your
+skills no matter your profession
+Brilliance interactive lessons can help
+you on your journey I personally use
+brilliant to improve my analytical
+thinking skills by going through their
+logic puzzles there's something for
+everyone whether you're just starting
+out or want to progress to more
+challenging puzzles and if you get stuck
+you can view the explanation to discover
+the correct approach you can try out
+brilliant for free for 30 days using my
+link in the description brilliant .org
+newthink if you're one of the first 200
+people to sign up via my link you'll get
+20% off your premium subscription
+unlocking all of Brilliance courses
+thanks for watching for news thinkink
+I'm Cindy
+pal
