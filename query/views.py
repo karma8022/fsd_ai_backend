@@ -148,3 +148,5 @@ def process_youtube_video(request):
 # http://127.0.0.1:8000/query/llm/?query=what+is+omega&url=https://www.youtube.com/watch?v=7kcWV6zlcRU&list=PLUl4u3cNGP62esZEwffjMAsEMW_YArxYC&index=5&ab_channel=MITOpenCourseWare
 # http://127.0.0.1:8000/query/llm/?query=what+does+he+say+about+beethoven+?&url=https://www.youtube.com/watch?v=IcmzF1GT1Qw&ab_channel=Vienna
 # https://www.youtube.com/watch?v=Tuw8hxrFBH8
+
+# https://www.youtube.com/watch?v=ep6k3Ofcf2s

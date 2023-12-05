@@ -1,0 +1,546 @@
+[Applause]
+hey there guys paul here from the
+engineering mindset.com
+in this video we're going to be
+discussing electrical current
+to understand the different types the
+symbols used to represent them
+how to measure current and how safety
+devices are used
+to protect us and our electrical
+circuits
+current is the flow of electrons in a
+circuit
+to use electricity we need electrons to
+flow in the same direction
+around a circuit we usually use copper
+cables to form the circuit
+because copper is a very good electrical
+conductor
+which means the atoms that make copper
+have a loosely bound
+electron in their outermost or valence
+shell
+which is free to move around inside the
+metal
+this free electron is very easy to move
+which is why copper is so popular
+it's so easy to move that it will
+naturally move two
+other copper atoms by itself but this
+occurs randomly
+in any and all directions which is of no
+use to us
+we wrap copper wires in rubber because
+the rubber is an insulator
+which means it does not allow free
+electrons to pass through it
+that provides a barrier and keeps
+electricity within the wires
+and away from us for us to use
+electricity to power our devices
+we need lots of electrons to flow in the
+same direction
+along a circuit we can then place things
+like
+lamps in the way of these electrons so
+that they have to flow
+through it and generate light and heat
+in the process
+to do this we need to force electrons to
+move
+and we can do that by applying a voltage
+voltage is the pushing force it's like
+pressure in a water pipe
+the more pressure we have the more water
+can flow
+the more voltage we have the more
+electrons can flow
+we can measure pressure without there
+being any water flowing
+and we can measure voltage without there
+being any current flowing
+but we can't measure how much water is
+flowing
+if no water is flowing and we can't
+measure the electrical current
+if no electrons are flowing if we take a
+copper wire
+there is no voltage difference between
+the two ends
+so the free electrons move around
+randomly this random movement
+is not considered a current but if we
+take a battery
+of say 1.5 volts and connect the wire
+across the two terminals then there is
+now a difference of 1.5 volts
+across the wire and this difference is
+going to force electrons to flow
+in the same direction we've covered the
+basics of voltage
+in detail in our previous video do check
+that out links can be found
+in the video description down below
+so we need a lot of electrons to flow
+along a circuit
+and through our lamps to get them to
+shine brightly
+however the cables and lamp can only
+handle a certain amount of electrons
+passing through them
+just like a pipe is rated to handle a
+certain amount of water passing through
+it
+or a certain pressure if it were to
+exceed this
+then the pipe will just burst likewise
+if too many electrons pass through the
+cable or the lamp
+then they will burst or burn out
+we refer to the flow of electrons as
+current and we measure this in the unit
+of amperes
+although you'll usually just hear people
+say amps
+this is also represented with a capital
+a
+for example this fuse has a 3 and a
+capital a
+which means is rated for 3 amps of
+current
+we'll look at how fuses work a little
+later in this video
+something that's going to cause you
+great confusion when you're learning
+about electricity
+is the difference between conventional
+current and electron flow
+these are both theories of how
+electricity works
+when benjamin franklin was first
+experimenting with electricity
+he had the idea that something must be
+flowing inside the materials
+he was given a glass tube and when this
+was rubbed with a cloth
+it seemed to accumulate this strange
+invisible fluid
+because when someone else touched the
+tube they received a small shock
+we now know this as static electricity
+but at the time
+benjamin franklin assumed that the tube
+was accumulating
+an excess amount of this invisible fluid
+so he considered this to be positive and
+the person touching it
+must have less of this fluid so they
+were considered negative
+so he said okay i guess this end is
+positive and this end is negative
+and electricity flows from positive to
+negative
+and this does make sense because water
+is a fluid
+and it flows from a high level to a low
+level
+soon manufacturers started producing
+batteries based on his work
+and so they also said well this end is
+positive and this end is negative
+and we still use this naming convention
+to this day
+this became known as conventional
+current because it's the conventional
+theory of how electricity flows
+however as science evolved and
+experiments became more precise
+someone called joseph thompson
+discovered that this invisible thing
+moving inside the wire was a particle
+and he named this particle an electron
+he also discovered that these electrons
+were actually flowing
+in the opposite direction from the
+negative to the positive
+benjamin franklin didn't realize the
+silk cloth was actually removing
+electrons from the glass
+so they were actually flowing from the
+person and
+to the glass tube joseph thompson's
+theory became known as electron flow
+because it's the flow of electrons and
+so
+what's actually occurring is electrons
+are flowing in a circuit
+from the negative to the positive
+terminal and not the positive to the
+negative
+however it doesn't really matter what's
+moving inside the wire
+or in which direction because the
+electrical engineering formulas we use
+do not take this into account so they
+will still come out with the same
+answers
+it's also a little bit too late now to
+change the names of the terminals of all
+the batteries in the world
+so everyone just kind of ignored this
+and we continue to teach and use
+conventional current
+some books might show you both so you
+need to remember that whenever we talk
+about electricity
+or whenever we design a circuit or even
+look at an electrical circuit drawing
+we always default and assume
+conventional current is occurring
+but engineers and scientists know that
+the electrons are actually flowing the
+other way
+if you look on the plugs of your
+electrical devices you should find
+labels from the manufacturers which tell
+you what the product is designed to
+handle
+for example this laptop charger tells us
+that for the device to work
+it needs an input of between 100 and 240
+volts
+and 1.5 amps of aec or alternating
+current
+which is represented by this symbol here
+the charger will then convert this
+to give an output of around 19.5 volts
+and 3.33 amps of dc or
+direct current which is represented by
+this symbol
+ac and dc are different types of
+electricity
+the plugs in your homes provide ac or
+alternating current
+in this type the electrons do not flow
+in a continuous loop
+instead they alternate between moving
+forwards and backwards
+just like the tide of the sea your
+electrical devices like laptops and
+mobile phones
+will use dc electricity in this type the
+electrons flow
+in one direction only directly from one
+terminal
+to the other you can think of this like
+the flow of water down a river
+in most cases we transport electricity
+from a power station
+to the towns and cities using ac
+electricity
+because it's easy to increase and
+decrease the voltage using transformers
+and it's also very efficient to
+transport electricity
+over long distances using this method
+however there are a few high voltage dc
+transmission lines being used but we
+won't go too much into detail on those
+we mostly use dc direct current for the
+circuit boards of small electronic
+devices
+like laptops mobile phones and tvs
+that's because dc is easier to control
+and allow
+circuits to be smaller and more compact
+many appliances will use a combination
+of ac
+and dc for example a washing machine
+will use
+ac for the induction motor which is used
+to spin the tub with the clothes in
+but the circuit board which controls the
+settings the lights the timers
+as well as how fast the motor spins will
+use dc
+power we can convert ac to dc
+using a device known as a rectifier this
+is extremely common in electronics
+we can also convert dc to ac using an
+inverter
+and this is used for example with solar
+power systems we have covered power
+inverters in great detail previously
+do check that out links can be found in
+the video description down below
+people often refer to a river or the
+tide of the sea
+as having a strong current it's very
+similar to electricity
+a river with a lot of fast flowing water
+is said to have a strong current
+the same with electricity a cable with a
+lot of electrons flowing
+also has a high current a river is able
+to
+handle a certain amount of water flowing
+through it
+but if more water enters than it can
+handle
+then the river will burst its banks the
+same with electricity
+the cable will burst and burn out
+manufacturers need to be able to test
+cables and lamps
+to find out how much current they can
+handle
+we also want to be able to see how much
+current is flowing through our circuits
+as well as being able to calculate this
+we can measure this using an ammeter
+and we measure the flow of current in
+the unit of amperes
+but you'll usually hear people just
+shorten this to amps
+so what is an amp one amp is equal to
+one coulomb per second
+and one coulomb is equal to
+approximately six quintillion
+242 quadrillion electrons per second
+okay but what does that mean another way
+to look at this
+is that to power this 1.5 watt lamp
+with a 1.5 volt battery requires a
+current of 1
+amp that means that the circuit requires
+1 coulomb per second
+which means approximately 6 quintillion
+242
+quadrillion electrons need to flow from
+the battery
+and through the lamp every second for
+the lamp to stay on
+but as you can see it's not very
+practical to say how many electrons per
+second are flowing
+so engineers just say amps to save time
+the brightness of the lamp will vary
+with voltage as we decrease the voltage
+there is less pressure pushing the
+electrons so less electrons flow as we
+increase the voltage
+more electrons flow and the lamp shines
+brighter
+but don't forget at a certain voltage
+and current the lamp will burn out
+to measure the current in a circuit we
+need to connect
+an ammeter in series so that the current
+flows through it
+think of it like a water meter the water
+in a pipe needs to flow
+through the water meter for us to know
+how much water is flowing
+likewise we need the electrons to flow
+through our ammeter
+instead of using an ammeter we're going
+to use a multimeter
+as we can do a lot more with this device
+i'll leave some links in the video
+description
+down below for where you can pick up a
+good multimeter i highly encourage you
+to get one of these for your toolkit
+they're an essential tool for any
+electrical engineer
+if we connect this 1.5 volt battery and
+this lamp
+which has a resistance of 1 ohm then we
+get a current reading
+of 1.5 amps which means
+9 quintillion 636 quadrillion electrons
+are flowing
+through the lamp every second because
+the components of this circuit
+are wired in series the current is the
+same anywhere in the circuit
+so we can take a measurement anywhere
+and it's the same value
+if we add another lamp to the circuit
+connected again in series
+and the lamp also has a resistance of 1
+ohm then we're adding more resistance to
+the circuit
+so it's now harder for the electrons to
+flow through and so we see a reduction
+in current
+in this case we get a reading of 0.75
+amps
+which means 4 quintillion 818
+quadrillion electrons are flowing
+this circuit is in series so again we
+can move the multimeter
+and we get the same reading if we now
+connect the circuit with two lamps in
+parallel
+both with a resistance of 1 ohm and
+connect this circuit to a battery of 1.5
+volts
+then in the main wire from and to the
+battery we get 3 amps
+but on the branch of each lamp we get
+1.5 amps
+because the path of the electron splits
+so they are shared between the two lamps
+the path then merges again so we get the
+combined total circuit current of 3 amps
+because both lamps have the same
+resistance they have the same current
+but for example if lamp a has a
+resistance of 1 ohm
+and lamp b has a resistance of 3 ohms
+then
+in the main wire we get an amp reading
+of 2 amps
+in the branch for lamp a we get 1.5 amps
+and in the branch for lamp b we get 0.5
+amps
+notice though that length b is dimmer
+that's because the resistance is higher
+which makes it difficult for electrons
+to flow through
+in both cases the amps in the branches
+all add up
+and are equal to the total current
+flowing in the main wire
+to and from the battery therefore we can
+add resistors
+to our circuits to restrict how much
+current can flow
+resistors make it harder for electrons
+to flow through a circuit
+and that's why we add resistors to the
+circuits because they reduce the current
+it's like having a kink in a pipe this
+will add resistance to the flow of water
+which reduces how much water can flow
+through and as the water is colliding
+with the pipe wall
+it's going to lose energy so we get a
+pressure drop
+the same with a resistor the material
+makes it difficult for the electrons to
+flow through
+the electrons are going to collide and
+waste energy
+so we get a voltage drop this wasted
+energy
+needs to go somewhere so it leaves as
+heat
+if we look at a resistor through a
+thermal imaging camera
+we can see that heat leaving for example
+this led
+is rated for a maximum of 22 milliamps
+or 0.022 amps we want to connect this to
+a 9 volt power supply
+if we use a 100 ohm resistor then the
+current would be 0.09 amps
+which is too much and the led will burn
+out if we use a 450 ohm resistor
+then the current is 0.02 amps which is
+below the limit
+so that should be okay if we use a 900
+ohm resistor
+then the current is 0.01 amps which is
+far too low
+so the led will not shine brightly when
+measuring current in your home
+you can also get these fairly cheap
+energy meters which allow you to plug
+your appliances into it
+and this will tell you the voltage the
+current the energy consumption
+as well as how much it costs to run
+these are a great tool to have in your
+toolkit
+i'll leave a link in the video
+description down below for where you can
+get one
+fuses in a basic sense have a thin piece
+of wire inside them
+which is rated to handle a certain
+amount of current flowing through them
+in this case this one is rated to handle
+3 amps
+or 19 quintillion 272 quadrillion
+electrons per second
+if too much current flows in the circuit
+then the fuse will burn out
+and this will open or break the circuit
+to protect the expensive electrical
+components
+the fuse acts as a weak point and is
+very cheap to replace
+so you can find these mounted on circuit
+boards and in the uk
+plugs will often have a fuse built in
+for added safety
+we find circuit breakers in our
+electrical panels within our homes and
+places of work
+circuit breakers are essentially a
+switch that automatically opens
+to break the circuit if too many
+electrons pass through it
+in either an overload or a short circuit
+scenario
+with the overload function if we slowly
+add more load to the circuit
+we will eventually exceed the rating of
+the breaker and it will flip to cut the
+power
+and protect the circuit this is known as
+overload protection
+another feature of most modern circuit
+breakers
+is short circuit protection in this case
+if for some reason the positive and the
+negative wires
+come into direct contact then we see a
+very large
+and instant surge in current because
+there is no resistance
+the circuit breaker will detect this
+instant surge in current
+and will cut the power to cut the
+circuit
+in north america we find another device
+called a gfci
+or a ground fault circuit interrupter in
+europe this is called an rcd
+or residual current device these
+basically monitor and compare the
+current
+in the supply and return wires to a
+circuit
+if the current coming back is not equal
+to the current being supplied
+then the electricity has found another
+path and is leaving the circuit
+it could be passing through a person so
+the device cuts the power
+this happens extremely fast and with a
+very small tolerance
+to help protect electric shocks and keep
+us safe
+okay that's it for this video but if you
+want to continue learning about
+electricity and electrical engineering
+then check out one of the videos on
+screen now and i'll catch you there for
+the next lesson
+don't forget to follow us on facebook
+twitter linkedin instagram
+as well as the engineeringmindset.com

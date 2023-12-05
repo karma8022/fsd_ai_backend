@@ -1,0 +1,248 @@
+[Applause]
+hey there guys Paul here from the
+engineering mindset calm in this video
+we're going to be looking at Ohm's law
+to understand how it works as well as
+how to use it there are also two
+problems at the end of this video for
+you to test your knowledge and see if
+you can solve so what is Ohm's law Ohm's
+law is a relationship between voltage
+current and resistance and how they
+relate to each other
+Ohm's law was developed by German
+physicist named Georg ohm who undertook
+many experiments to develop his theory
+including measuring current by touching
+live electrical circuits to see how much
+it hurt as you might imagine the higher
+the current the more it hurt now there
+are three formulas we need to use for
+Ohm's law but we don't actually need to
+remember these and I'll show you a super
+easy tip in just a moment so the three
+formulas we use for Ohm's law are
+voltage equals current multiplied by
+resistance current equals voltage
+divided by resistance and resistance
+equals voltage divided by current if
+that seems like a lot to remember
+then don't worry because we don't need
+to remember them all we need to remember
+is Ohm's triangle which looks like this
+so you just need to remember these three
+letters in order V I R then we just
+write those letters in a triangle with V
+at the top and we draw a line to
+separate the letters in fact you don't
+even need to remember those because I've
+made a free pdf guide for you with some
+worked examples but you can keep on your
+PC or your mobile and access wherever
+you need links for that can be found in
+the video description down below now all
+we do when we need to use a formula is
+cover up the letter we need so if we
+want to find the voltage then we write V
+equals and then we cover up the V in the
+triangle that leaves us with I and R so
+we write I multiplied by R which means
+voltage equals current multiplied by
+resistance you can write a little
+multiplication symbol in the triangle
+between the two letters if it helps you
+now I know you're thinking why is
+current represented with a letter i' and
+not a c' for current or even a letter a
+for the unit of ampere or the unit of
+current is the ampere or the amp
+and this is named after Andre Empire a
+French physicist a couple of hundred
+years ago he undertook lots of
+experiments many involved varying the
+amount of electrical current so he
+called this intensely do current or the
+intensity of current so when he
+published his work they took the letter
+I and it became standard until this day
+now you might also come across formulas
+where the letter e is used instead of V
+the letter e stands for EMF or
+electro-motive force but don't worry
+about that just stick to using V and
+substitute the for e if you see it using
+Ohm's law questions anyway so by
+covering V we get voltage equals current
+multiplied by resistance if we want to
+find current then we write down I equals
+and then we cover up the letter I in the
+triangle that gives us V and R so as V
+is above the are like a fraction we can
+write V divided by R therefore current
+is equal to voltage divided by
+resistance if we want to find resistance
+then we write down our equals and we
+cover up our in the triangle that leaves
+us with V and I M so we write V divided
+by I which gives us resistance equals a
+voltage divided by current let's look at
+some examples for how to use these
+formulas first let's see how we find
+voltage and how it relates to the other
+parts let's say we have a simple
+electrical circuit with a battery and a
+resistor we don't know what the voltage
+of the battery is though the resistor is
+3 ohms and when we connect a multimeter
+into the circuit we see that we get a
+reading of 2 amps of current we want to
+find the voltage so using Ohm's triangle
+we can cover up the V and that gives us
+V equals I multiplied by R we know the
+current is 2 amps and we can write that
+in and we know the resistance is 3 ohms
+so we can write that in also therefore 2
+amps multiplied by 3 ohms gives us 6
+volts the battery is therefore 6 volts
+now if you want to check your answers
+for ohms questions then I've built a
+free calculator on the website you can
+just drop your numbers in and it will do
+the calculation for you links for that
+again in the video description down
+below coming back to the circuit if we
+now double the voltage by connect
+two six volt batteries in series we get
+12 volts if we now connect this to the
+same circuit the current also doubles
+from two amps to forums if we double the
+voltage again to 24 volts the current
+will also double to eight vamps so
+what's the relationship here
+we can see that current is therefore
+directly proportional to voltage if we
+double the voltage we double the current
+remember voltage is like pressure is the
+pushing force in the circuit it pushes
+the electrons around the wires and we
+place things like lamps in the way of
+these electrons so that they have to
+flow through these and that causes the
+lamp to light up by doubling the voltage
+we see that the current also doubles
+meaning that more electrons are flowing
+and this occurs as we apply more
+pressure on more voltage this is just
+like if we were to use a bigger water
+pump then more water will flow
+okay so what about finding current let's
+say we now have a three ohm lamp
+connected to a six volt power supply
+to find the current we write down I
+equals and then we cover up I in the
+triangle that gives us V / R so current
+equals voltage divided by resistance we
+know the voltage is 6 volts and the
+resistance is 3 ohms so the current is
+therefore 2 amps and that's what we see
+on the multimeter by the way if you
+don't have a multimeter than I highly
+recommend you get one it's essential for
+troubleshooting but also building your
+essential electrical knowledge I will
+leave some links down below for which
+one to get and from where so we saw what
+happens when we use a resistance of 3
+ohms in the circuit but if we double the
+resistance to 6 ohms by placing another
+3 ohm lamp into the circuit the current
+have such as 1 amp if we double the
+resistance again to 12 ohms the current
+will half again to 0.5 amps we can
+visually see this because the lamps will
+become less bright as the current
+reduces from the increase in resistance
+so what's the relationship here we can
+see that the current is inversely
+proportional to the resistance when we
+double the resistance the current will
+decrease by half if we half the
+resistance the current will double
+current is the flow of electrons or the
+flow of free electrons for us to make
+this lamp shine we need to push
+electrons through it how do we do that
+we apply a voltage across the two ends
+the voltage will push the electrons the
+atoms inside the copper wire have free
+electrons in their valence shell which
+means they can very easily move to our
+bure copper atoms they will naturally
+move to other atoms by themselves but
+this will be in random directions which
+is of no use to us for the lamp to turn
+on we need lots of electrons to flow in
+the same direction when we connect a
+voltage source we use the pressure of
+the battery to push the electrons
+through the circuit all in the same
+direction for example to power this 1.5
+ohm resistor flamp with the 1.5 volt
+battery requires 1 amp of current this
+is equal to six point iliyan 242
+quadrillion electrons passing from the
+battery and through the lamp every
+second and if we can achieve this
+then the lamp will stay at full
+brightness if the voltage or current
+reduces or the resistance of the circuit
+increases then the lamp will become
+dimmer okay now let's look at finding
+resistance say we have a resistive lamp
+connected to a 12 volt power supply we
+don't know how much resistance is adding
+to the circuit but we measure the
+current as 0.5 amps to find the
+resistance we write down R equals and
+then we cover up the R in the triangle
+we're left with V and I so resistance
+equals voltage divided by current we
+know the voltage is 12 volts and the
+current is 0.5 amps so 12 divided by 0.5
+gives us 24 ohms of resistance
+resistance is the opposition to the flow
+of electrons it tries to prevent
+electrons from flowing that's why we use
+resistors in circuits to reduce the
+current and protect components such as
+an LED if we try to connect an LED
+directly to a 9-volt battery it will
+blow out because the voltage and the
+current are too high but when we add a
+resistor into the circuit the knees are
+reduced so the LED is protected and will
+shine brightly so given the circuit we
+can increase the current by increasing
+the voltage or we can also increase the
+current by reducing the resistance
+we can also reduce the current by
+increasing the resistance okay time for
+you to test your skills can you solve
+these problems or leave a link for the
+answer and the solution in the video
+description down below problem 1 let's
+say we have this lamp which has a
+resistance of 240 ohms if we plug this
+into an outlet in the US which uses 120
+volts what will the current be
+problem two if I plug the same 240 ohm
+resistant lamp into an outlet in the UK
+we get a current of zero point nine five
+eight amps so what is the voltage being
+applied here okay guys that's it for
+this video but to continue learning then
+check out one of the videos on screen
+now and I'll catch you there for the
+next lesson don't forget to follow us on
+Facebook Twitter Instagram LinkedIn as
+well as the engineering mindset calm
